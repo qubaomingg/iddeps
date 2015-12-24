@@ -9,7 +9,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "qubaoming",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freestyle21/iddeps"
+  },
+  "bugs": {
+    "url": "https://github.com/freestyle21/iddeps/issues"
+  },
+  "author": {
+    "email": "675861708@qq.com",
+    "name": "qubaoming",
+    "url": "freestyle21.cn"
+  },
   "license": "ISC",
   "dependencies": {
     "async": "^1.5.0",
