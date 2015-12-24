@@ -1,0 +1,19 @@
+{
+  "name": "iddeps",
+  "version": "2.0.2",
+  "description": "a tool for complete seajs ids and deps",
+  "main": "index.js",
+  "bin": {
+    "iddeps": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qubaoming",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  }
+}
